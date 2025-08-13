@@ -8,7 +8,7 @@
 
 <h3 align="left">با من در ارتباط باشید:</h3>
 <p align="left">
-  <a href="https://instagram.com/erfanalikhani_offical" target="_blank">
+  <a href="https://instagram.com/erfcode" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
   <a href="https://www.youtube.com/c/erfanalikhani_offical" target="_blank">
